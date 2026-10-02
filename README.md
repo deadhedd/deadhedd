@@ -7,6 +7,8 @@ automation, and local-first software. I care about explicit state, conservative
 failure behavior, reproducibility, observability, and keeping important data in
 formats users can inspect and own.
 
+**[The system behind these projects](https://deadhedd.com/2026/10/01/self-hosted-git-as-document-infrastructure/)** — how the pieces fit together.
+
 ## Selected work
 
 - **[vaultctl](https://github.com/deadhedd/vaultctl)** — Go tooling for explicit,
